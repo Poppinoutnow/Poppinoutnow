@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Brian Simms
 - 👀 I’m interested in becoming a programmer
 - 🌱 I’m currently learning Software Application Development @ IvyTech Community College
-- 💞️ I’m looking to collaborate on designing a measuring unit converter/ undecided
+- 💞️ I’m looking to collaborate on an item selector-speech menu
 - 📫 How to reach me bsimms5@ivytech.edu
 
 <!---
